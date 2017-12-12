@@ -1,0 +1,10 @@
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\bin\Debug\ReactionTestSuccessDatabase.accdb
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\bin\Debug\ReactionTestWithSuccessRate.exe.config
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\bin\Debug\ReactionTestWithSuccessRate.exe
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\bin\Debug\ReactionTestWithSuccessRate.pdb
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\obj\Debug\ReactionTestWithSuccessRate.Form1.resources
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\obj\Debug\ReactionTestWithSuccessRate.Properties.Resources.resources
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\obj\Debug\ReactionTestWithSuccessRate.csproj.GenerateResource.Cache
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\obj\Debug\ReactionTestWithSuccessRate.exe
+C:\Users\Asus\documents\visual studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\obj\Debug\ReactionTestWithSuccessRate.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ReactionTestWithSuccessRate\ReactionTestWithSuccessRate\obj\Debug\ReactionTestWithSuccessRate.csprojResolveAssemblyReference.cache
